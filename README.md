@@ -1,12 +1,11 @@
-<img width="1388" height="555" alt="banner" src="https://github.com/user-attachments/assets/fa10ae95-022f-4d37-b8c7-141d60cf038f" />
+<!--- <img width="1388" height="555" alt="banner" src="https://github.com/user-attachments/assets/fa10ae95-022f-4d37-b8c7-141d60cf038f" /> --->
 
-<!-- <h1 align="center">Hello!</h1> -->
-#
+<h1 align="center">Hello!</h1>
 <p align="center">
-   <!-- My name is Kinga</br> -->
+   👩🏻 My name is Kinga</br>
   🕹 I'm passionate about game development, programming and web design</br>
   🎓 I have a degree in the field of Computer Science with major in Extended Reality, games and immersive systems</br>
-  🐱 Cat lover | ☕ Coffe lover | ⛩ Japanese culture enthusiast
+  🐱 Cat lover | ☕ Coffee lover | ⛩ Japanese culture enthusiast
 </p>
 
 <h4 align="center">You can reach me here:</h4>
