@@ -3,7 +3,7 @@
 <h1 align="center">Hello!</h1>
 <p align="center">
    👩🏻 My name is Kinga</br>
-  🕹 I'm passionate about game development, programming and web design</br>
+  🕹 I'm passionate about game development, programming and design</br>
   🎓 I have a degree in the field of Computer Science with major in Extended Reality, games and immersive systems</br>
   🐱 Cat lover | ☕ Coffee lover | ⛩ Japanese culture enthusiast
 </p>
