@@ -60,7 +60,5 @@
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=fff)](#)
 
 ## 🌱 Currently working on
-[![My website](https://svg.bookmark.style/api?url=https://github.com/KingaMendyk/Website_HTML&mode=dark&style=horizontal)](https://github.com/KingaMendyk/Website_HTML)
-
-## 
+[![My website](https://img.shields.io/badge/Personal-Website_HTML-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KingaMendyk/Website_HTML)
 
