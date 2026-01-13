@@ -9,7 +9,7 @@
 <h4 align="center">You can reach me here:</h4>
 <p align="center">
   <a href="mailto:kinga.mendyk1@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/kinga.mendyk1-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="github.com/KingaMendyk"><img alt="GitHub" src="https://img.shields.io/badge//KingaMendyk-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/KingaMendyk/"><img alt="GitHub" src="https://img.shields.io/badge//KingaMendyk-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kinga-mendyk"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Kinga_Mendyk-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
   <!---<img alt="itch.io" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white"> - soon! --->
 </p>
