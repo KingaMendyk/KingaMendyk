@@ -14,7 +14,7 @@
   <!---<img alt="itch.io" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white"> - soon! --->
 </p>
 
-## 🖥 Languages & Frameworks
+## Languages & Frameworks
 <!-- languages -->
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat-square&logo=cshrp&logoColor=white)](#)
@@ -31,7 +31,7 @@
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff)](#)
 
-## 🛠  Tools
+## Tools
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)](#)
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat-square&logo=godot-engine)](#)
 
@@ -60,6 +60,6 @@
 [![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=fff)](#)
 
-## 🌱 Currently working on
+## Currently working on
 [![My website](https://img.shields.io/badge/Personal-Website_HTML-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KingaMendyk/Website_HTML)
 
