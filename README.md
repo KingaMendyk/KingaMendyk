@@ -27,7 +27,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](#)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff)](#)
 
@@ -54,7 +54,7 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](#)
 [![Rider](https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=fff)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=fff)](#)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=white)](#)
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=fff)](#)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=fff)](#)
